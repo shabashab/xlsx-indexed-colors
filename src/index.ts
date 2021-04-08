@@ -1,1 +1,1 @@
-export {default as default} from "./IndexedColorsArray";
+export { default as default } from "./IndexedColorsArray";
