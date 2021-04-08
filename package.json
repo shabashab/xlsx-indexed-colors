@@ -4,6 +4,9 @@
   "main": "dist/index.js",
   "author": "shabashab",
   "license": "MIT",
+  "repository": {
+    "url": "https://github.com/shabashab/xlsx-indexed-colors"
+  },
   "scripts": {
     "prepublishOnly": "tsc"
   },
