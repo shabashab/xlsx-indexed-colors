@@ -4,6 +4,9 @@
   "main": "dist/index.js",
   "author": "shabashab",
   "license": "MIT",
+  "scripts": {
+    "prepublishOnly": "tsc"
+  },
   "devDependencies": {
     "prettier": "^2.2.1",
     "typescript": "^4.2.4"
