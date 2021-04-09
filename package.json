@@ -1,12 +1,16 @@
 {
-  "name": "xlsx-indexed-colors",
-  "version": "1.0.2",
+  "name": "@xlsx-model/indexed-colors",
+  "version": "1.0.0",
   "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "author": "shabashab",
   "license": "MIT",
   "repository": {
     "url": "https://github.com/shabashab/xlsx-indexed-colors"
   },
+  "files": [
+    "dist/**/*"
+  ],
   "scripts": {
     "prepublishOnly": "tsc"
   },
